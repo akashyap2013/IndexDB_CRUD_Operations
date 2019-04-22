@@ -12,8 +12,8 @@ What you can do in this project:
 * Read Data
 * Delete Data(Manually or bulk)
 
-##Contributor
-[akshay kashyap](http://www.youtube.com/c/dailytuition
+## Contributor
+[akshay kashyap](http://www.youtube.com/c/dailytuition)
 
 ### So basically this project is amazing to understand IndexDB Database.
 Just Downlaod this project and enjoy...!
